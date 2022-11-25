@@ -1,0 +1,5 @@
+../Core/Src/function_led.c:11:6:blink_RED	8	static
+../Core/Src/function_led.c:15:6:blink_YELLOW	8	static
+../Core/Src/function_led.c:19:6:blink_GREEN	8	static
+../Core/Src/function_led.c:23:6:blink_BLUE	8	static
+../Core/Src/function_led.c:27:6:blink_PURPLE	8	static
